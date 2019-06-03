@@ -1,1 +1,1 @@
-# AndroidApp_BlogApp
+# BlogApp
